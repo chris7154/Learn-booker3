@@ -1,0 +1,38 @@
+.head{
+    padding: 20px 0;
+    color: #000;
+}
+
+.logo h5{
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.head .icon {
+    margin-left: 10px;
+}
+
+header {
+    background-color: white;
+    margin: 0 30px;
+}
+header ul {
+    padding: 20px 10px;
+}
+header li {
+    margin-right: 5px;
+}
+header ul li a {
+    color: #fff;
+    font-weight: 500;
+    transition: 0.5s;
+}
+header ul li a:hover {
+    color: #1eb2ae;
+}
+.start {
+    background-color:;
+    padding : 10px 20px;
+    color : #fff;
+
+}
