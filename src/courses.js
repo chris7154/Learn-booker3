@@ -1,5 +1,6 @@
 const courses = [
     {
+        
         id: 1,
         title: "Spending and savings",
         description: "learning to save your money",

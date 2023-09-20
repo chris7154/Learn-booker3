@@ -4,7 +4,7 @@ import "./Header.css";
 import {Link} from 'react-router-dom';
 import { useNavigate } from "react-router-dom";
 import Navbar from "./Navbar"
-import Signup from "./pages/Signup";
+
 import { useState } from "react";
 
 function Header () {
